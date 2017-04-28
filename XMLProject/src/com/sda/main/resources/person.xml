@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root>
+	<person>
+		<name>Tomasz</name>
+		<lastname>Nowak</lastname>
+		<company>Apple</company>
+		<salary>5000.0</salary>
+		<department>Rachunkowość</department>
+		<yearOfBorn>1990</yearOfBorn>
+	</person>
+	<person>
+		<name>Anna</name>
+		<lastname>Kowalska</lastname>
+		<company>SECESPOL</company>
+		<salary>3500.0</salary>
+		<department>Konstrukcyjny</department>
+		<yearOfBorn>1988</yearOfBorn>
+	</person>
+	<person>
+		<name>Jan</name>
+		<lastname>Kwiatek</lastname>
+		<company>&lt;IT&gt;</company>
+		<salary>6000.0</salary>
+		<department>IT</department>
+		<yearOfBorn>1950</yearOfBorn>
+	</person>
+	<person>
+		<name>Grażyna</name>
+		<lastname>Torbalska</lastname>
+		<company>Esyifloresy</company>
+		<salary>4000.0</salary>
+		<department>Projektowy</department>
+		<yearOfBorn>1970</yearOfBorn>
+	</person>
+	<person>
+		<name>Marian</name>
+		<lastname>Tracz</lastname>
+		<company>Traczpol</company>
+		<salary>10000.0</salary>
+		<department>Zarząd</department>
+		<yearOfBorn>1940</yearOfBorn>
+	</person>
+</root>
